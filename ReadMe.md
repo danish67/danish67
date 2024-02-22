@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Projects in Flutter<br>👯 I’m looking to collaborate on : ML Projects<br>🤝 I’m looking for help with : Web Dev<br>🌱 I’m currently learning : ReactJS<br>💬 Ask me about : Anything you like about Programming <br>⚡ Fun fact : Love Watching Anime and Playing Football 
+ I’m currently working on : Projects in Flutter and Django<br> I’m looking to collaborate on : GenAi based Projects<br> I’m looking for help with : DevOps<br> I’m currently learning : GenAi<br> Ask me about : Anything you like about Programming <br> Must Know : I Love Watching Anime and Playing Football 
 
 
 # 💻 Tech Stack:
@@ -11,9 +11,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=danish67&icon=0&color=1)](https://visitcount.itsvg.in)
